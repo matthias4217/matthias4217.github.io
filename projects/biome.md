@@ -1,6 +1,7 @@
 ---
 title:  Biome
 permalink:  /project/biome/
+layout:     default
 ---
 
 Biome is a prtototype 3D-roguelike.

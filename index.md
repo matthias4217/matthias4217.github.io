@@ -1,6 +1,12 @@
+---
+title:      Home
+permalink:  /
+layout:     default
+---
+
 ## Stuff I've Made
 
   * My end of school project : [Biome](/project/biome/)
-  * [Unijam 2019](https://itch.io/jam/unijam2019) contribution : [Grow & Rest](https://github.com/matthias4217/unijam2019-experience)
+  * [Unijam 2019](https://itch.io/jam/unijam2019) contribution : [Grow & Rest](/project/grow-and-rest)
   * [Jukebox](https://github.com/matthias4217/jukebox-ultra-nrv) in Flask
 
