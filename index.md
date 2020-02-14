@@ -4,7 +4,7 @@ permalink:  /
 layout:     default
 ---
 
-## Stuff I've Made
+## Projects I've Worked On
 
   * My end of school project : [Biome](/project/biome/)
   * [Unijam 2019](https://itch.io/jam/unijam2019) contribution : [Grow & Rest](/project/grow-and-rest)
