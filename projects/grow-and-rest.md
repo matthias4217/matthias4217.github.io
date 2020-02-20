@@ -2,6 +2,8 @@
 title:  Grow & Rest
 permalink:  /project/grow-and-rest/
 layout:     default
+tags:
+ - unity3d
 ---
 
 *Grow & Rest* is a contemplative game made with Unity3D.
