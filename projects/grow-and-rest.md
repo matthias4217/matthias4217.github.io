@@ -13,4 +13,4 @@ This was our [Unijam 2019](https://itch.io/jam/unijam2019) submission, and it wo
 
 This game was made with [Pierre "Debiantarte" Bidault](https://debiantarte.github.io/), Tristan Charial and Valentin Forestier.
 
-Sourcecode : [Github](https://github.com/matthias4217/unijam2019-experience)
+Sourcecode : [Github](https://github.com/matthias4217/grow-and-rest)

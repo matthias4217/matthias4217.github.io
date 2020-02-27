@@ -4,6 +4,7 @@ permalink:  /project/biome/
 layout:     default
 tags:
  - unity3D
+ - procedural generation
 ---
 
 ![Biome - Hero with sword against devillish beast](/assets/img/projects/biome/biome-image-representative.png)
