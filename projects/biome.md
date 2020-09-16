@@ -11,7 +11,7 @@ tags:
 Biome is a prototype 3D-roguelike, made in C# with Unity3D.
 It features a procedurally-generated terrain, and enemies adapting to the player's behaviour.
 
-This project was made with Luke Austin, Timothée Denoux, [Romain Derré](https://github.com/Rom-s), Adrien Floriant.
+This project was made with Luke Austin, Timothée Denoux, [Romain Derré](https://github.com/Rom-s), [Adrien Floriant](https://madewink.github.io/).
 
 
 Link to the sourcecode : [Gitlab](https://gitlab.com/Atchoom/biome)

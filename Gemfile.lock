@@ -206,7 +206,11 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+<<<<<<< HEAD
     minitest (5.14.2)
+=======
+    minitest (5.14.1)
+>>>>>>> a4fd5c523f81e9953c95b1dbb6fe0757905ce104
     multipart-post (2.1.1)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
@@ -249,7 +253,11 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
+<<<<<<< HEAD
     zeitwerk (2.4.0)
+=======
+    zeitwerk (2.3.0)
+>>>>>>> a4fd5c523f81e9953c95b1dbb6fe0757905ce104
 
 PLATFORMS
   ruby
