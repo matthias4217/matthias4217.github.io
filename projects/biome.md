@@ -20,7 +20,7 @@ Link to the sourcecode : [Gitlab](https://gitlab.com/Atchoom/biome)
 
 ### Installation
 
-You can download the game from here (Googel Drive) :
+You can download the game from here (Google Drive) :
   * [Linux 64-bits](https://drive.google.com/drive/folders/1aaX3BJHE8PcKgXqyBLAymf-x4hcIHIwE?usp=sharing)
   * [Windows 64-bits](https://drive.google.com/drive/folders/1FabYI5S_Gg3qXji2IRcAdgajFSRaVE0j?usp=sharing)
 
