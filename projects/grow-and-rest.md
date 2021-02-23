@@ -1,6 +1,6 @@
 ---
 title:  Grow & Rest
-permalink:  /project/grow-and-rest/
+permalink:  /projects/grow-and-rest/
 layout:     default
 tags:
  - unity3d

@@ -4,11 +4,6 @@ permalink:  /
 layout:     home
 ---
 
-## Projects I've Worked On
+I sometimes tinker with computers, mostly on the software side.
 
-  * My end of school project : [Biome](/project/biome/)
-  * [Unijam 2019](https://itch.io/jam/unijam2019) contribution : [Grow & Rest](/project/grow-and-rest)
-  * [Jukebox](https://github.com/matthias4217/jukebox-ultra-nrv) in Flask
-
-You can find my resume [here](/assets/documents/cv-matthias-goffette-en.pdf).
-
+You can find the projects I've worked on [here](/projects/).

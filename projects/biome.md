@@ -1,10 +1,11 @@
 ---
 title:  Biome
-permalink:  /project/biome/
+permalink:  /projects/biome/
 layout:     default
 tags:
  - unity3D
  - procedural generation
+ - game
 ---
 
 ![Biome - Hero with sword against devillish beast](/assets/img/projects/biome/biome-image-representative.png)
