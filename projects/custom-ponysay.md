@@ -13,7 +13,8 @@ The only inconveniant is that metadata do not suit anything else well.
 
 But I wanted to have more than ponies.
 I've thus started to collect and convert sprites so that it could be displayed with ponysay.
-Most of the art isn't from me (see [the artists](https://framagit.org/matthias4217/custom-ponysay/-/blob/master/ARTISTS.md),
-but I did adapt them so that they display nicely.
+Most of the art isn't from me (see [the artists](https://framagit.org/matthias4217/custom-ponysay/-/blob/master/ARTISTS.md), but I did adapt them so that they display nicely.
+I am currently working on Steven Universe characters, but I will eventually add many more characters from many universes.
+Contributions are welcomed.
 
 Link to the project : [framagit](https://framagit.org/matthias4217/custom-ponysay/)
