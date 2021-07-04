@@ -1,6 +1,6 @@
 ---
 title:  Custom Ponysay
-permalink:  /projects/custom-ponysay/
+permalink:  /computer-projects/custom-ponysay/
 layout: default
 tags:
  - art

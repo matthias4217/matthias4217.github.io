@@ -1,6 +1,6 @@
 ---
 title:  Biome
-permalink:  /projects/biome/
+permalink:  /computer-projects/biome/
 layout:     default
 tags:
  - unity3D
@@ -8,7 +8,7 @@ tags:
  - game
 ---
 
-![Biome - Hero with sword against devillish beast](/assets/img/projects/biome/biome-image-representative.png)
+![Biome - Hero with sword against devillish beast](/assets/img/computer-projects/biome/biome-image-representative.png)
 Biome is a prototype 3D-roguelike, made in C# with Unity3D.
 It features a procedurally-generated terrain, and enemies adapting to the player's behaviour.
 

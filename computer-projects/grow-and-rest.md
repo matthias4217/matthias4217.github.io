@@ -1,12 +1,12 @@
 ---
 title:  Grow & Rest
-permalink:  /projects/grow-and-rest/
+permalink:  /computer-projects/grow-and-rest/
 layout:     default
 tags:
  - unity3d
 ---
 
-![An unfinished temple on a planet with trees](/assets/img/projects/grow-and-rest/unfinished-temple.png)
+![An unfinished temple on a planet with trees](/assets/img/computer-projects/grow-and-rest/unfinished-temple.png)
 
 *Grow & Rest* is a contemplative game made with Unity3D.
 This was our [Unijam 2019](https://itch.io/jam/unijam2019) submission, and it won the Concept Prize, for its inventivity and respect of the theme.

@@ -1,6 +1,6 @@
 ---
 title:  CanvasReplace
-permalink:  /projects/canvas-replace/
+permalink:  /computer-projects/canvas-replace/
 layout:     default
 tags:
  - nodejs
@@ -12,7 +12,8 @@ tags:
 **CanvasReplace** is a web application inspired by [Reddit's r/place](https://en.wikipedia.org/wiki/Place_(Reddit)).
 The goal is to have a blank canvas at first, and allow users to place one pixel at a time on it.
 
-This application was first developed by [Al3xCalibur](https://github.com/Al3xCalibur) and [Ardhanaariishvara](https://github.com/Ardhanaariishvara), students at Télécom SudParis for three students clubs : the *Club Code*, *Club Jeux* and *<abbr title="Club de Création d'Expériences Ludiques et Libres">CELL</abbr>*.
+This application was first developed by [Al3xCalibur](https://github.com/Al3xCalibur) and [Ardhanaariishvara](https://github.com/Ardhanaariishvara), students at Télécom SudParis for three students clubs : the *Club Code*, *Club Jeux* and *CELL*.
+
 This application has been used by dozens of students during an event week.
 
 Because I later wanted to deploy this application myself, and adapt it to my needs, I have developed one new feature.
@@ -37,3 +38,5 @@ Its goal is to capture snapshots of the canvas at regular interval.
 This allows to process the picture later into a timelapse.
 While such a feature could (and may in the future) be integrated directly onto *CanvasReplace* for more efficiency, I was short on time and this gives the whole a more modular design.
 I have created a `docker-compose` file for this project.
+
+*[CELL]: Club de Création d'Expériences Ludiques et Libres
