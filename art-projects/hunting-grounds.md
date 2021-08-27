@@ -4,7 +4,7 @@ layout: page
 tags:
     - art
     - story
-    - wrinting
+    - writing
 ---
 
 *Hunting Grounds* is a short story written in french for the Festivart 2020, an online art festival at my engineer school.

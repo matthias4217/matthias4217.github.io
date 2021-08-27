@@ -4,11 +4,36 @@ title: About
 permalink: /about/
 ---
 
+*[OSM]: OpenStreetMap
+
+## Technical information
+
 Website made with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/).
+
+## About me
+
+I am interested in various things :
+
+  * Various "outdoor stuff" :
+	* Hiking
+	* Geology - I enjoy knowing more about the geology of the places I visit. It sometimes help understanding the reason a city is built a particular way, which plants grow here, and of course, what fossils I may find.
+  	* Paleontology - Ancient life amazes me. It's a great feeling to hold a simple rock, but with the imprint of a living being incredibly old.
+	* Fauna & flora - I contribute to [Faune France](https://www.faune-france.org/), which collects observations of living animals. 
+	* Contributing to [OpenStreetMap](https://openstreetmap.org/) - I use [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) to complete OSM data where I go, and I sometimes make additions directly on OSM.
+  * Various "computer stuff"
+	* I occasionally edits Wikipedia. 
+	* I [self-host](/computer-projects/self-host/) various services for my personal use and the use of friends or family.
+	* I sometimes develop [projects](/computer-projects/), depending on my available time.
+  * Other indoor activities :
+	* Miniature painting - Diverse range of Warhammer. It's a very time-consuming hobby, but quite rewarding.
+	* Music - I listen to various genre of music : atmospheric black metal, synthwave, electropop, psytrance... I play the violin.
+	* Reading & Writing - I read mostly fantasy or science-fiction, but sometimes various other things too. [I sometimes write.](/art-projects/)
+
+## Random small bits
 
 You can find my resume [here](/assets/documents/cv-matthias-goffette-en.pdf).
 
-GPG key :
+GPG key (I haven't used it in a long long time though) :
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
